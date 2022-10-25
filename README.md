@@ -1,4 +1,4 @@
-# Anorexia_nervoa_associated_genes_manuscript
+# Anorexia_nervosa_associated_genes_manuscript
 Scripts used within the paper: Multiomic prioritisation of risk genes for anorexia nervosa
 
 Transcriptome wide association study (TWAS)
