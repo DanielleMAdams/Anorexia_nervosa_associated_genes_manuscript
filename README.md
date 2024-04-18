@@ -7,4 +7,4 @@ mRNA splicing wide association study (SpliceWAS),
 Conditional analysis,
 Finemapping
 
-Preprint: doi: https://doi.org/10.1101/2022.06.04.22275898
+Article: doi: https://doi.org/10.1017/S0033291723000235
